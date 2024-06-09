@@ -12,6 +12,7 @@
 		EF3606BF2C1387FD0034DDFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF3606BE2C1387FD0034DDFC /* Assets.xcassets */; };
 		EF3606C22C1387FD0034DDFC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF3606C12C1387FD0034DDFC /* Preview Assets.xcassets */; };
 		EF3606C92C13971F0034DDFC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3606C82C13971F0034DDFC /* HomeView.swift */; };
+		EF8F07A82C15B0F2000D122D /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8F07A72C15B0F2000D122D /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		EF3606BE2C1387FD0034DDFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF3606C12C1387FD0034DDFC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EF3606C82C13971F0034DDFC /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		EF8F07A72C15B0F2000D122D /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				EF3606BA2C1387FB0034DDFC /* SwiftfulSourceControlApp.swift */,
 				EF3606BC2C1387FB0034DDFC /* ContentView.swift */,
 				EF3606C82C13971F0034DDFC /* HomeView.swift */,
+				EF8F07A72C15B0F2000D122D /* SettingsView.swift */,
 				EF3606BE2C1387FD0034DDFC /* Assets.xcassets */,
 				EF3606C02C1387FD0034DDFC /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF3606C92C13971F0034DDFC /* HomeView.swift in Sources */,
+				EF8F07A82C15B0F2000D122D /* SettingsView.swift in Sources */,
 				EF3606BD2C1387FB0034DDFC /* ContentView.swift in Sources */,
 				EF3606BB2C1387FB0034DDFC /* SwiftfulSourceControlApp.swift in Sources */,
 			);
