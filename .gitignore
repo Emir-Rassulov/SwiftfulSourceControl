@@ -1,0 +1,107 @@
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.xcuserstate
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserdatad
+*.xcworkspace
+!default.xcworkspace
+
+# Swift Package Manager
+#
+.build/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj/project.xcworkspace/
+.swiftpm/
+sourcekitten/
+
+# CocoaPods
+#
+Pods/
+!Podfile
+!Podfile.lock
+!.podspec
+!.swift-version
+xcuserdata/
+
+# Carthage
+#
+Carthage/Build/
+Carthage/Checkouts/
+Carthage/Projects/
+
+# Accio dependency manager
+#
+Dependencies/
+.accio/
+
+# SwiftGen
+#
+swiftgen.yml
+
+# fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+!fastlane/Appfile
+!fastlane/Fastfile
+!fastlane/Matchfile
+
+# Code Coverage
+#
+xcov_report/
+*.xccovreport
+*.xccovarchive
+
+# Playgrounds
+#
+timeline.xctimeline
+playground.xcworkspace
+
+# AppCenter
+#
+AppCenter/
+
+# Firebase
+#
+firebase_app_distribution/
+
+# Temporary files
+#
+*.tmp
+*.temp
+
+# Documentation
+#
+.docc/
+
+# SwiftLint
+#
+.swiftlint.yml
+
+# SwiftFormat
+#
+.swiftformat
+
+# SPM integration
+#
+.build/
